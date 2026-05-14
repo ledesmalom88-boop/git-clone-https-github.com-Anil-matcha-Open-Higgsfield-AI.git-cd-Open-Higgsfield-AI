@@ -1,0 +1,19 @@
+{
+  "name": "open-higgsfield-ai",
+  "version": "1.0.0",
+  "description": "Open Higgsfield AI project",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "tailwindcss": "^4.0.0",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0"
+  }
+}
